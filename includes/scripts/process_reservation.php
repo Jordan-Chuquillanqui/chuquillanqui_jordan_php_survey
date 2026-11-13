@@ -171,4 +171,4 @@ if (count($errors) === 0) {
 }
 
 
-header('Location: /chuquillanqui_jordan_php_survey/index.php');
+header('Location: /chuquillanqui_jordan_php_survey-main/index.php');
